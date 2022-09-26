@@ -1,0 +1,10 @@
+Altmer
+Argonian
+Breton
+Dark Elf
+Imperial
+Khajiit
+Nord
+Orc
+Redguard
+Wood Elf

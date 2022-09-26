@@ -1,0 +1,32 @@
+Adventurer
+Alchemist
+Apothecary
+Armorer
+Baker
+Bard
+Beekeeper
+Beggar
+Blacksmith
+Butcher
+Candlemaker
+Carpenter
+City Guard
+Companion
+Explorer
+Farmer
+Fisher
+Forester
+House Carl
+Hunter
+Innkeeper
+Mage
+Mercenary
+Messenger
+Miner
+Priest
+Sailor
+Scholar
+Shopkeeper
+Thieves Guild Fence
+Trader
+Vigilant of Stendarr

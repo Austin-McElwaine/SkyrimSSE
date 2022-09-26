@@ -1,0 +1,30 @@
+Abandoned Mineshaft
+Barely-Lit Mineshaft
+Bone-Laden Path
+Cracked Oak Door
+Creaking Wooden Door
+Crumbling Mineshaft
+Damp Tunnel
+Decaying Old Door
+Excavated Mineshaft
+Faintly Glowing Tunnel
+Falmer Ladder
+Foggy Deadwood Path
+Low-Ceilinged Corridor
+Makeshift Ladder
+Mine Cart Path
+Mushroom-Covered Tunnel
+Narrow Tunnel
+Partially Collapsed Mineshaft
+Pitch-Black Tunnel
+Rope Ladder
+Rope Walkway to a Corridor
+Rotating Stone Door
+Rusty Hinged Door
+Shadowy Corridor
+Spooky Path
+Sturdy Ladder
+Torchlit Path
+Very Smelly Corridor
+Waterlogged Corridor
+Wooden Ladder
